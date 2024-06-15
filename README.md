@@ -13,13 +13,19 @@ This Power BI dashboard offers a multi-dimensional view of patient waitlists acr
   * Top 5 Specialties: Highlights specialties with the longest wait times.
 * Monthly Trend Analysis: Tracks waitlist trends over time, segmented by case type.
 
+![image](summary.png)
+
 ### Detailed View
 * Customizable Filters: Users can apply filters for archive date, case type, specialty, age profile, and time bands.
 * Expandable Data Table: Provides granular data points and metrics, with interactive elements allowing users to delve into specifics.
 
+![image](detail.png)
+
 ### Drill-Down Feature
 * Specialty Group Breakup: Details the breakdown of the total waitlist by various medical specialties, providing a deeper insight into specific areas with higher patient demands.
 * Interactive Graphs: Allow users to interact with the data, presenting a dynamic visualization of the patient load per specialty.
+
+![image](drilldown.png)
 
 ## Key Insights
 ### Trends and Comparisons
